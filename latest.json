@@ -1,0 +1,17 @@
+{
+  "version": "1.0.3",
+  "publishedUtc": "2026-11-10T12:08:49Z",
+  "notes": "",
+  "packages": {
+    "perUser": {
+      "url": "https://raw.githubusercontent.com/Amspec-Group-Development/securebridge-mcp-updates/main/SecureBridge-MCP-1.0.3-x64-user.msi",
+      "sha256": "BBE44414C39D695DDA87878EF41326E312205E1054F26FFC51B8854E67554DFC",
+      "sizeBytes": 52834304
+    },
+    "perMachine": {
+      "url": "https://raw.githubusercontent.com/Amspec-Group-Development/securebridge-mcp-updates/main/SecureBridge-MCP-1.0.3-x64.msi",
+      "sha256": "AB2E53F3CDD3437D4CA6E9C7F884DB03C37C333B658B2BEEEB0F7B0C2C636AE8",
+      "sizeBytes": 52838400
+    }
+  }
+}
